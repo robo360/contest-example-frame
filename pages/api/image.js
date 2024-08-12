@@ -39,7 +39,7 @@ export default async function handler(req, res) {
             margin: "20px 0",
           }}
         >
-          Will bitcoin70k reach $70,000 in 2024?
+          Will Bitcoin reach $70,000 in 2024?
         </h1>
         <div
           style={{
